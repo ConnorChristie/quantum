@@ -1,0 +1,295 @@
+
+Gurobi 8.1.0 (mac64, Python) logging started Fri Mar 15 22:09:04 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1 rows, 7 columns and 7 nonzeros
+Model has 28 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+00, 2e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.01s
+Presolved: 1 rows, 7 columns, 7 nonzeros
+Presolved model has 28 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+       7    9.1451542e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 7 iterations and 0.02 seconds
+Optimal objective  9.145154208e-01
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1 rows, 7 columns and 7 nonzeros
+Model has 28 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+00, 2e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.01s
+Presolved: 1 rows, 7 columns, 7 nonzeros
+Presolved model has 28 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+       7    9.1451542e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 7 iterations and 0.01 seconds
+Optimal objective  9.145154208e-01
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1 rows, 7 columns and 7 nonzeros
+Model has 28 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+00, 2e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.01s
+Presolved: 1 rows, 7 columns, 7 nonzeros
+Presolved model has 28 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+       7    9.1451542e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 7 iterations and 0.01 seconds
+Optimal objective  9.145154208e-01
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1 rows, 7 columns and 7 nonzeros
+Model has 28 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+00, 2e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.01s
+Presolved: 1 rows, 7 columns, 7 nonzeros
+Presolved model has 28 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+       7    9.1451542e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 7 iterations and 0.01 seconds
+Optimal objective  9.145154208e-01
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1 rows, 7 columns and 7 nonzeros
+Model has 28 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+00, 2e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.01s
+Presolved: 1 rows, 7 columns, 7 nonzeros
+Presolved model has 28 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+       7    9.1451542e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 7 iterations and 0.01 seconds
+Optimal objective  9.145154208e-01
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1 rows, 7 columns and 7 nonzeros
+Model has 28 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+00, 2e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.01s
+Presolved: 1 rows, 7 columns, 7 nonzeros
+Presolved model has 28 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+       7    9.1451542e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 7 iterations and 0.01 seconds
+Optimal objective  9.145154208e-01
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1 rows, 7 columns and 7 nonzeros
+Model has 28 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+00, 2e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.00s
+Presolved: 1 rows, 7 columns, 7 nonzeros
+Presolved model has 28 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+       7    9.1451542e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 7 iterations and 0.01 seconds
+Optimal objective  9.145154208e-01
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1 rows, 13 columns and 13 nonzeros
+Model has 91 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+00, 2e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.01s
+Presolved: 1 rows, 13 columns, 13 nonzeros
+Presolved model has 91 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+      10    6.9232593e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.01 seconds
+Optimal objective  6.923259310e-01
+Optimize a model with 2 rows, 13 columns and 26 nonzeros
+Model has 91 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [9e-03, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+00, 2e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [8e-02, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.9232593e-01   0.000000e+00   0.000000e+00      0s
+       6    8.9516834e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 6 iterations and 0.01 seconds
+Optimal objective  8.951683372e-01
+Optimize a model with 3 rows, 13 columns and 39 nonzeros
+Model has 91 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [9e-03, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+00, 2e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [8e-02, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    8.9516834e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.01 seconds
+Optimal objective  8.951683372e-01
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1 rows, 14 columns and 13 nonzeros
+Model has 91 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+00, 2e+01]
+  Bounds range     [5e-01, 5e-01]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolved: 1 rows, 13 columns, 13 nonzeros
+Presolved model has 91 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+      10    6.9232593e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.01 seconds
+Optimal objective  6.923259310e-01
+Optimize a model with 2 rows, 14 columns and 26 nonzeros
+Model has 91 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [9e-03, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+00, 2e+01]
+  Bounds range     [5e-01, 5e-01]
+  RHS range        [8e-02, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.9232593e-01   0.000000e+00   0.000000e+00      0s
+       6    8.9516834e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 6 iterations and 0.01 seconds
+Optimal objective  8.951683372e-01
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1 rows, 14 columns and 13 nonzeros
+Model has 91 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+00, 2e+01]
+  Bounds range     [5e-01, 5e-01]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolved: 1 rows, 13 columns, 13 nonzeros
+Presolved model has 91 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+      10    6.9232593e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.01 seconds
+Optimal objective  6.923259310e-01
+Optimize a model with 2 rows, 14 columns and 26 nonzeros
+Model has 91 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [9e-03, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+00, 2e+01]
+  Bounds range     [5e-01, 5e-01]
+  RHS range        [8e-02, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.9232593e-01   0.000000e+00   0.000000e+00      0s
+       6    8.9516834e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 6 iterations and 0.01 seconds
+Optimal objective  8.951683372e-01
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 1 rows, 13 columns and 13 nonzeros
+Model has 91 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+00, 2e+01]
+  Bounds range     [5e-01, 5e-01]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.01s
+Presolved: 1 rows, 13 columns, 13 nonzeros
+Presolved model has 91 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+      10    6.9232593e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.01 seconds
+Optimal objective  6.923259310e-01
+Optimize a model with 2 rows, 13 columns and 26 nonzeros
+Model has 91 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [9e-03, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+00, 2e+01]
+  Bounds range     [5e-01, 5e-01]
+  RHS range        [8e-02, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.9232593e-01   0.000000e+00   0.000000e+00      0s
+       6    8.9516834e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 6 iterations and 0.01 seconds
+Optimal objective  8.951683372e-01

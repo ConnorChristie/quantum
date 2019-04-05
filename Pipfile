@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+networkx = "*"
+dwave-networkx = "*"
+dwave-neal = "*"
+dwave-system = "*"
+dwave-ocean-sdk = "*"
+ipykernel = "*"
+jupyter = "*"
+dwave-cloud-client = "*"
+dimod = "*"
+quandl = "*"
+bokeh = "*"
+
+[requires]
+python_version = "3.7"

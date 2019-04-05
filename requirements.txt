@@ -1,0 +1,11 @@
+networkx
+dwave-networkx
+dwave-neal
+dwave-system
+dwave-ocean-sdk
+dwave-cloud-client
+dimod
+ipykernel
+jupyter
+quandl
+bokeh

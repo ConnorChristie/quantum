@@ -1,0 +1,17 @@
+:: files ::
+Operations.qs
+Tasks.qs
+:: qsim ::
+:: references ::
+/Users/connor/.nuget/packages/microsoft.quantum.canon/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Canon.dll
+/Users/connor/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Primitives.dll
+/Users/connor/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulation.Common.dll
+/Users/connor/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulation.Core.dll
+/Users/connor/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll
+/Users/connor/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulators.dll
+/Users/connor/.nuget/packages/xunit.abstractions/2.0.3/lib/netstandard2.0/xunit.abstractions.dll
+/Users/connor/.nuget/packages/xunit.assert/2.4.1/lib/netstandard1.1/xunit.assert.dll
+/Users/connor/.nuget/packages/xunit.extensibility.core/2.4.1/lib/netstandard1.1/xunit.core.dll
+/Users/connor/.nuget/packages/xunit.extensibility.execution/2.4.1/lib/netstandard1.1/xunit.execution.dotnet.dll
+:: command ::
+dotnet "/Users/connor/.nuget/packages/microsoft.quantum.development.kit/0.5.1902.2802/build/../tools/qsc/qsc.dll" build --format MsBuild  --input "Operations.qs" "Tasks.qs" --references "/Users/connor/.nuget/packages/microsoft.quantum.canon/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Canon.dll" "/Users/connor/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Primitives.dll" "/Users/connor/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulation.Common.dll" "/Users/connor/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulation.Core.dll" "/Users/connor/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll" "/Users/connor/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulators.dll" "/Users/connor/.nuget/packages/xunit.abstractions/2.0.3/lib/netstandard2.0/xunit.abstractions.dll" "/Users/connor/.nuget/packages/xunit.assert/2.4.1/lib/netstandard1.1/xunit.assert.dll" "/Users/connor/.nuget/packages/xunit.extensibility.core/2.4.1/lib/netstandard1.1/xunit.core.dll" "/Users/connor/.nuget/packages/xunit.extensibility.execution/2.4.1/lib/netstandard1.1/xunit.execution.dotnet.dll" --output obj/qsharp/src/
